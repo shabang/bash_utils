@@ -7,12 +7,13 @@ Small collection of bash script
 
 A small script to init a new bash script. 
 
-Usage :
+### Usage :
 
 	$ ./newbash.sh -f my-new-script
 	$ ./newBash.sh -f my-new-script-with-option -o
 
-Options :
+### Options :
+
  -f Name of new bash script
  -o Add an option block
 
@@ -20,9 +21,10 @@ Options :
 
 Generate a password
 
-Usage :
+### Usage :
 
 	$ ./genPasswd.sh -s 10
 
-Options :
+### Options :
+
  -s Size of password (default 12)
