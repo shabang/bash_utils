@@ -14,8 +14,8 @@ A small script to init a new bash script.
 
 ### Options :
 
- -f Name of new bash script
- -o Add an option block
+ - **-f** Name of new bash script
+ - **-o** Add an option block
 
 ## genPasswd.sh
 
@@ -27,4 +27,4 @@ Generate a password
 
 ### Options :
 
- -s Size of password (default 12)
+ - **-s** Size of password (default 12)
